@@ -7,4 +7,4 @@
 <li>Event listeners</li>
 <li>and DOM manipulation.</li> </p>
 
-<p>Music by Bensound.</p>
+<p>// Music by Bensound. //</p>
