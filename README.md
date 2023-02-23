@@ -6,3 +6,5 @@
 <li>Simple transitions between songs</li>
 <li>Event listeners</li>
 <li>and DOM manipulation.</li> </p>
+
+<p>Music by Bensound.</p>
