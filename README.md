@@ -8,3 +8,4 @@
 <li>and DOM manipulation.</li> </p>
 
 <p>// Music by Bensound. //</p>
+<p>// Images from unsplash.com //</p> 
